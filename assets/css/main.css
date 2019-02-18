@@ -9,7 +9,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
-
+	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
@@ -1402,7 +1402,7 @@
 
 	body {
 		background-color: #000;
-		background-image: url("../../images/BG.jpg");
+		background-image: url("../../images/bg.jpg");
 		background-size: cover;
 		background-position: top center;
 	}
